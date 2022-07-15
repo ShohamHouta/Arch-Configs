@@ -10,7 +10,6 @@ scan_timeout = 10
 
 command_timeout	= 99999
 [character] # The name of the module we are configuring is "character"
-success_symbol = "[➜](bold green)" 
 
 [username]
 style_user = "green bold"
