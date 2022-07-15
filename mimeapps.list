@@ -1,0 +1,12 @@
+[Default Applications]
+text/html=google-chrome.desktop
+x-scheme-handler/http=google-chrome.desktop
+x-scheme-handler/https=google-chrome.desktop
+x-scheme-handler/about=google-chrome.desktop
+x-scheme-handler/unknown=google-chrome.desktop
+x-scheme-handler/kite=kite-copilot.desktop
+
+[Added Associations]
+text/plain=visual-studio-code.desktop;
+application/pdf=libreoffice-draw.desktop;
+text/x-python=visual-studio-code.desktop;

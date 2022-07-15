@@ -1,0 +1,8 @@
+[General]
+zoom_level=1
+hw_accel=1
+close_to_tray=true
+start_in_tray=true
+
+[Network]
+allow_permissions=true
